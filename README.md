@@ -51,8 +51,8 @@ user browser +-------------->+ siteproxy      +-------> wikipedia
 8. done
 ```
 
-## Telegram群: @siteproxy
+## Telegram Group: @siteproxy
 
 ## issues
-- 部分网站加载有问题;
-- twitter访问有问题;
+- Cannot load some website properly;
+- Unknown issues to Twitter;
